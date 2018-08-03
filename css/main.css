@@ -1,0 +1,11 @@
+body {
+  font-family: Palatino;
+}
+#reading-list p {
+  color: salmon;
+  border: 1px solid blue;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  width: 33%;
+}
